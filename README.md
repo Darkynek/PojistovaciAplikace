@@ -1,2 +1,2 @@
 # PojistovaciAplikace
- jednoduchá verze pojišťovací aplikace .. Daniel Kübl
+ jednoduchá verze pojišťovací aplikace
